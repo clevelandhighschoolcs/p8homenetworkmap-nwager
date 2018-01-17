@@ -2,3 +2,4 @@
 p8homenetworkmap-nwager created by GitHub Classroom
 
 Diagram of a home network.
+![networkpng](homenetwork.png)
